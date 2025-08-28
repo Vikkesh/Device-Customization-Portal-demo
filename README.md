@@ -71,12 +71,14 @@ A comprehensive hardware device request portal designed to streamline the proces
 ## Screenshots
 
 > **📸 Demo Screenshots Available**
-> 
-> For a complete visual walkthrough of the Hardware Device Request Portal:
-> - [View All Screenshots](https://your-image-hosting-service.com/device-portal-screenshots) 
-> - [Client Request Interface](https://your-image-hosting-service.com/client-demo)
-> - [Asset Upload System](https://your-image-hosting-service.com/asset-upload-demo)
-> - [Admin Dashboard](https://your-image-hosting-service.com/admin-demo)
+![Image](https://github.com/user-attachments/assets/36b48c38-b45e-4e27-b282-fc2c2abfc42c)
+![Image](https://github.com/user-attachments/assets/e84cd971-b565-465e-9891-909ad854e430)
+![Image](https://github.com/user-attachments/assets/f15d374e-f0e1-4063-ba50-f8956068942e)
+![Image](https://github.com/user-attachments/assets/776b3bea-e6f4-433e-82d7-f8dc9a48617d)
+![Image](https://github.com/user-attachments/assets/74983203-3edc-49db-b5f2-80f9f2c001d0)
+![Image](https://github.com/user-attachments/assets/253cf61a-46a7-41f2-bbbe-aa137e7172ce)
+![Image](https://github.com/user-attachments/assets/94d8c3fc-5b67-44a1-8819-ca3e03663acf)
+![Image](https://github.com/user-attachments/assets/055d4e32-4979-42a1-a2c5-af10df24c9e1)
 
 ### Client Request Interface
 *Intuitive device request submission with custom requirements*
