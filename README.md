@@ -1,4 +1,4 @@
-# **Hardware Device Request Portal**
+# **Device Customization Portal**
 
 A comprehensive hardware device request portal designed to streamline the process for clients to request customized hardware devices with company-specific requirements. This platform enables businesses to manage device customization requests efficiently while providing secure asset management and role-based access control.
 
